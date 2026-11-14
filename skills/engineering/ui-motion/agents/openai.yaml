@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Motion"
+  short_description: "Purposeful animation with measured performance and"
+  default_prompt: "Use $ui-motion for this task, following the current project instructions."

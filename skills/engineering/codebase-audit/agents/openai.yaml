@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Audit"
+  short_description: "Find dead code, unused packages and maintainability risks."
+  default_prompt: "Use $codebase-audit for this task, following the current project instructions."

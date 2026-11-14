@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Design"
+  short_description: "Maintain focused Codex skills and test their activation"
+  default_prompt: "Use $skill-design for this task, following the current project instructions."

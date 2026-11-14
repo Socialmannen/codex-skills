@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grilling"
+  short_description: "Resolve the important open decisions before a larger build."
+  default_prompt: "Use $grilling for this task, following the current project instructions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Review"
+  short_description: "Evidence-based security review matched to the actual stack."
+  default_prompt: "Use $security-review for this task, following the current project instructions."

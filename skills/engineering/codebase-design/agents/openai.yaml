@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Design"
+  short_description: "Feature modules, testable interfaces and focused architecture"
+  default_prompt: "Use $codebase-design for this task, following the current project instructions."

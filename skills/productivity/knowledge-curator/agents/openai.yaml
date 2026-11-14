@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Curator"
+  short_description: "Place durable project guidance in the right Codex files."
+  default_prompt: "Use $knowledge-curator for this task, following the current project instructions."

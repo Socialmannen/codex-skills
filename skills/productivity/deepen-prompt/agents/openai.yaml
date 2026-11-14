@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deepen Prompt"
+  short_description: "Clarify task instructions without expanding the requested scope."
+  default_prompt: "Use $deepen-prompt for this task, following the current project instructions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prototype"
+  short_description: "Compare layouts and test flows before production implementation."
+  default_prompt: "Use $prototype for this task, following the current project instructions."

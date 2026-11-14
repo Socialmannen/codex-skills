@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "name": "browser-qa",
+      "bucket": "delivery",
+      "summary": "Exercise real browser flows and document what was verified.",
+      "starter": false
+    },
+    {
+      "name": "git-pr",
+      "bucket": "delivery",
+      "summary": "Deliver scoped changes through commits, PRs and relevant CI checks.",
+      "starter": false
+    },
+    {
+      "name": "preview-deploy",
+      "bucket": "delivery",
+      "summary": "Prepare and verify a preview using the project's hosting setup.",
+      "starter": false
+    },
+    {
+      "name": "break-ui",
+      "bucket": "engineering",
+      "summary": "Stress-test interfaces with realistic edge-case data.",
+      "starter": true
+    },
+    {
+      "name": "code-review",
+      "bucket": "engineering",
+      "summary": "Review behavior, project rules and regressions across all changed files.",
+      "starter": true
+    },
+    {
+      "name": "codebase-audit",
+      "bucket": "engineering",
+      "summary": "Find dead code, unused packages and maintainability risks.",
+      "starter": false
+    },
+    {
+      "name": "codebase-design",
+      "bucket": "engineering",
+      "summary": "Feature modules, testable interfaces and focused architecture reviews.",
+      "starter": true
+    },
+    {
+      "name": "declutter-ui",
+      "bucket": "engineering",
+      "summary": "Remove redundant interface elements while preserving useful navigation.",
+      "starter": true
+    },
+    {
+      "name": "diagnosing-bugs",
+      "bucket": "engineering",
+      "summary": "Reproduce, isolate and fix bugs with evidence.",
+      "starter": true
+    },
+    {
+      "name": "domain-modeling",
+      "bucket": "engineering",
+      "summary": "Align domain language, data models and access rules.",
+      "starter": false
+    },
+    {
+      "name": "implement",
+      "bucket": "engineering",
+      "summary": "Implement agreed work in small complete slices.",
+      "starter": false
+    },
+    {
+      "name": "mobile-native",
+      "bucket": "engineering",
+      "summary": "Touch, viewport, keyboard and safe-area behavior on the mobile web.",
+      "starter": true
+    },
+    {
+      "name": "prototype",
+      "bucket": "engineering",
+      "summary": "Compare layouts and test flows before production implementation.",
+      "starter": true
+    },
+    {
+      "name": "tdd",
+      "bucket": "engineering",
+      "summary": "Behavior-focused test-first work using the project's test stack.",
+      "starter": false
+    },
+    {
+      "name": "ui-motion",
+      "bucket": "engineering",
+      "summary": "Purposeful animation with measured performance and reduced-motion support.",
+      "starter": false
+    },
+    {
+      "name": "unslop-ui",
+      "bucket": "engineering",
+      "summary": "Give generic interfaces a deliberate visual identity.",
+      "starter": true
+    },
+    {
+      "name": "landing-page-cro",
+      "bucket": "growth",
+      "summary": "Clear commercial landing pages and honest conversion improvements.",
+      "starter": false
+    },
+    {
+      "name": "pricing-and-paywalls",
+      "bucket": "growth",
+      "summary": "Pricing clarity and server-enforced entitlements.",
+      "starter": false
+    },
+    {
+      "name": "product-analytics",
+      "bucket": "growth",
+      "summary": "Decision-led event tracking and controlled experiments.",
+      "starter": false
+    },
+    {
+      "name": "user-activation",
+      "bucket": "growth",
+      "summary": "Shorten signup-to-value and keep cancellation usable.",
+      "starter": false
+    },
+    {
+      "name": "deepen-prompt",
+      "bucket": "productivity",
+      "summary": "Clarify task instructions without expanding the requested scope.",
+      "starter": false
+    },
+    {
+      "name": "grilling",
+      "bucket": "productivity",
+      "summary": "Resolve the important open decisions before a larger build.",
+      "starter": false
+    },
+    {
+      "name": "knowledge-curator",
+      "bucket": "productivity",
+      "summary": "Place durable project guidance in the right Codex files.",
+      "starter": false
+    },
+    {
+      "name": "llm-council",
+      "bucket": "productivity",
+      "summary": "Optional structured perspectives for consequential decisions.",
+      "starter": false
+    },
+    {
+      "name": "skill-design",
+      "bucket": "productivity",
+      "summary": "Maintain focused Codex skills and test their activation boundaries.",
+      "starter": false
+    },
+    {
+      "name": "to-questionnaire",
+      "bucket": "productivity",
+      "summary": "Collect missing requirements from a client or specialist.",
+      "starter": false
+    },
+    {
+      "name": "to-spec",
+      "bucket": "productivity",
+      "summary": "Turn agreed requirements into a concise spec and verifiable slices.",
+      "starter": true
+    },
+    {
+      "name": "launch-checklist",
+      "bucket": "security",
+      "summary": "Evidence-based checks before releasing a website or app.",
+      "starter": true
+    },
+    {
+      "name": "legal-compliance",
+      "bucket": "security",
+      "summary": "Scope legal and privacy requirements using current primary sources.",
+      "starter": false
+    },
+    {
+      "name": "security-review",
+      "bucket": "security",
+      "summary": "Evidence-based security review matched to the actual stack.",
+      "starter": false
+    },
+    {
+      "name": "seo",
+      "bucket": "seo",
+      "summary": "Technical search readiness for public routes and clear, useful content.",
+      "starter": false
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Declutter UI"
+  short_description: "Remove redundant interface elements while preserving useful"
+  default_prompt: "Use $declutter-ui for this task, following the current project instructions."

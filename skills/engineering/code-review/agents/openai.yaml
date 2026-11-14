@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Review"
+  short_description: "Review behavior, project rules and regressions across all"
+  default_prompt: "Use $code-review for this task, following the current project instructions."

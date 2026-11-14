@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unslop UI"
+  short_description: "Give generic interfaces a deliberate visual identity."
+  default_prompt: "Use $unslop-ui for this task, following the current project instructions."

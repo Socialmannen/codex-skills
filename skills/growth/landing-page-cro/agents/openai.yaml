@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing Page CRO"
+  short_description: "Clear commercial landing pages and honest conversion"
+  default_prompt: "Use $landing-page-cro for this task, following the current project instructions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "To Questionnaire"
+  short_description: "Collect missing requirements from a client or specialist."
+  default_prompt: "Use $to-questionnaire for this task, following the current project instructions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile Native"
+  short_description: "Touch, viewport, keyboard and safe-area behavior on the mobile"
+  default_prompt: "Use $mobile-native for this task, following the current project instructions."

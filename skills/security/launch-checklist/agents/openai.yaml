@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch Checklist"
+  short_description: "Evidence-based checks before releasing a website or app."
+  default_prompt: "Use $launch-checklist for this task, following the current project instructions."

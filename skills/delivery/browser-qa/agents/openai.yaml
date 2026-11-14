@@ -1,0 +1,4 @@
+interface:
+  display_name: "Browser QA"
+  short_description: "Exercise real browser flows and document what was verified."
+  default_prompt: "Use $browser-qa for this task, following the current project instructions."

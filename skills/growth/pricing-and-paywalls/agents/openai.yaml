@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pricing And Paywalls"
+  short_description: "Pricing clarity and server-enforced entitlements."
+  default_prompt: "Use $pricing-and-paywalls for this task, following the current project instructions."

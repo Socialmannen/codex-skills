@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implement"
+  short_description: "Implement agreed work in small complete slices."
+  default_prompt: "Use $implement for this task, following the current project instructions."

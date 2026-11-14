@@ -1,0 +1,4 @@
+interface:
+  display_name: "To Spec"
+  short_description: "Turn agreed requirements into a concise spec and verifiable"
+  default_prompt: "Use $to-spec for this task, following the current project instructions."

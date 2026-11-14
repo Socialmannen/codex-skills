@@ -1,0 +1,4 @@
+interface:
+  display_name: "Legal Compliance"
+  short_description: "Scope legal and privacy requirements using current primary"
+  default_prompt: "Use $legal-compliance for this task, following the current project instructions."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Preview Deploy"
+  short_description: "Prepare and verify a preview using the project's hosting setup."
+  default_prompt: "Use $preview-deploy for this task, following the current project instructions."

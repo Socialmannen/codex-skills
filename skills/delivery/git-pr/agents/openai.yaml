@@ -1,0 +1,4 @@
+interface:
+  display_name: "GIT PR"
+  short_description: "Deliver scoped changes through commits, PRs and relevant CI"
+  default_prompt: "Use $git-pr for this task, following the current project instructions."

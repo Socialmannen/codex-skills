@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diagnosing Bugs"
+  short_description: "Reproduce, isolate and fix bugs with evidence."
+  default_prompt: "Use $diagnosing-bugs for this task, following the current project instructions."

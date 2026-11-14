@@ -1,0 +1,4 @@
+interface:
+  display_name: "Break UI"
+  short_description: "Stress-test interfaces with realistic edge-case data."
+  default_prompt: "Use $break-ui for this task, following the current project instructions."

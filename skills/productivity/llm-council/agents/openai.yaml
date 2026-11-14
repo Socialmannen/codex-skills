@@ -1,0 +1,4 @@
+interface:
+  display_name: "LLM Council"
+  short_description: "Optional structured perspectives for consequential decisions."
+  default_prompt: "Use $llm-council for this task, following the current project instructions."

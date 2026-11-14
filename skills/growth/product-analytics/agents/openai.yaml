@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Analytics"
+  short_description: "Decision-led event tracking and controlled experiments."
+  default_prompt: "Use $product-analytics for this task, following the current project instructions."

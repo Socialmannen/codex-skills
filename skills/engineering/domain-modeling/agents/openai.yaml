@@ -1,0 +1,4 @@
+interface:
+  display_name: "Domain Modeling"
+  short_description: "Align domain language, data models and access rules."
+  default_prompt: "Use $domain-modeling for this task, following the current project instructions."

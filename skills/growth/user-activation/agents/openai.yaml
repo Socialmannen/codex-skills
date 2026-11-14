@@ -1,0 +1,4 @@
+interface:
+  display_name: "User Activation"
+  short_description: "Shorten signup-to-value and keep cancellation usable."
+  default_prompt: "Use $user-activation for this task, following the current project instructions."

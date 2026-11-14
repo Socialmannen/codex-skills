@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEO"
+  short_description: "Technical search readiness for public routes and clear, useful"
+  default_prompt: "Use $seo for this task, following the current project instructions."
