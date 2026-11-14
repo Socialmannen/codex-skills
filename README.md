@@ -8,6 +8,8 @@ Börja med startgruppen på tio skills och lägg till efter behov. Alla 28 tidig
 
 Du behöver Node.js 22 eller nyare för verktygen i detta repo. Ingen npm-installation eller tredjepartspaket behövs.
 
+Har du fått samlingen som ZIP: packa upp den, öppna den uppackade katalogen och börja med installationsskriptet nedan. För att publicera kopian i ett eget repo, följ [publiceringsguiden](docs/PUBLISH.md).
+
 ~~~bash
 git clone https://github.com/Socialmannen/codex-skills.git
 cd codex-skills
