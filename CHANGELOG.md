@@ -2,6 +2,7 @@
 
 ## Ej publicerat
 
+- Utökat UI-vägledningen med formulärfel, inmatningsmetoder, dialoger, containerfrågor och tillgänglig rörelse efter granskning av GoogleChrome Modern Web Guidance.
 - Utökat SEO med källkritisk konkurrentanalys och tydlig skillnad mellan observationer och trafikuppskattningar.
 - Kompletterat onboarding med rättvisande, tillgänglig framstegsvisning och mätbara hypoteser.
 - Förtydligat hur moderna webbfunktioner väljs utifrån webbläsarstöd, tillgänglighet och projektets komponenter.

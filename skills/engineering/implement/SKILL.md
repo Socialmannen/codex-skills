@@ -26,6 +26,8 @@ Skip layers the slice does not touch. For important logic use the existing test 
 
 For browser UI, consider native HTML and platform APIs when they fit the interaction and the project's supported browsers. Check current compatibility for the specific feature and choose progressive enhancement or a justified fallback where needed. Native primitives do not automatically provide complete accessibility: verify semantics, keyboard behavior, focus, and assistive technology expectations for the actual component. Follow established project components when they already meet the need.
 
+For forms and overlays, choose controls by behavior: a blocking dialog, a nonmodal panel, and a tooltip have different focus and dismissal needs. Associate fields with labels and actionable errors; make visual and programmatic error states agree, and handle focus after failed submission. If custom Enter handling submits a form, avoid submitting while an input method editor is composing text; check behavior in supported browsers and keep an ordinary submit control.
+
 ## Finish
 
 Run the checks required by the repository and inspect the complete diff, including uncommitted and untracked files. Fix issues within scope and report the resulting behavior, validation, and unresolved blockers.

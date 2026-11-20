@@ -14,6 +14,7 @@ Identify the framework, CSS system, existing responsive behavior, and target dev
 ## Checklist
 
 - Gate hover-only effects with capability media queries, while retaining active and visible keyboard-focus states.
+- Consider container queries for reusable components whose layout depends on their available space; retain a usable base layout and check the project's browser support.
 - Use dynamic viewport height for app shells when appropriate; use small viewport height when stable section height matters. Inspect keyboard and nested-scroll behavior.
 - Keep text inputs at a readable size; 16 CSS pixels commonly avoids iOS input zoom. Do not disable user zoom.
 - Pad fixed surfaces using safe-area environment variables where needed; check actual content does not overlap the home indicator.
