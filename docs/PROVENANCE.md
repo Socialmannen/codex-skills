@@ -23,6 +23,8 @@ Ingen automatisk hämtning från dessa inspirationskällor sker vid installation
 
 ## Codex-versionen
 
+UI-vägledningen har kompletterats med idéer från [GoogleChrome Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance-src), npm-paketet `modern-web-guidance` version 1.0.1 (Apache-2.0). Vägledningen har anpassats till detta repos arbetsflöden; paketet installeras eller körs inte av samlingen.
+
 Nya arbetsflöden är browser-qa, preview-deploy och git-pr. Installerare, validerare, tester, Codex-metadata och dokumentation har lagts till i denna version.
 
 Format och upptäckt följer [Codex dokumentation](https://developers.openai.com/codex/skills/). Samlingen är ett fristående projekt och inte en officiell OpenAI-produkt.

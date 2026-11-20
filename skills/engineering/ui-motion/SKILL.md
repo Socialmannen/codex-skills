@@ -20,6 +20,8 @@ Choose CSS for simple transitions. Use an existing motion library for gestures, 
 - Declare transition properties explicitly; avoid transition: all.
 - Keep focus, hit testing, screen-reader state, and keyboard interaction correct during entry and exit.
 - Respect prefers-reduced-motion with reduced or instant spatial changes.
+- Keep the final state usable without animation. For automatically moving content, provide pause, stop, or hide controls when required; reduced-motion preferences do not replace those controls.
+- When clipping or masking a focusable element, verify its focus indicator remains visible, including on an unclipped parent if needed.
 - Do not keep content hidden until a scroll animation runs.
 - Keep choreography short; avoid making users wait for staggered controls.
 - Apply will-change only where measured or clearly needed, and remove unnecessary compositing layers.

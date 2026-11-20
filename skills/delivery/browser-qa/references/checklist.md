@@ -9,6 +9,7 @@ Select rows that match the change rather than testing every combination on every
 | Request | Success, validation failure, server/network error, repeated submission |
 | View | Representative phone and desktop widths, relevant landscape, 200% zoom |
 | Input | Pointer/touch as available, keyboard, focused controls, accessible labels |
+| Forms and overlays | Relevant validation errors and focus recovery; dialog dismissal and focus return; composition input when custom Enter shortcuts are used |
 | Preferences | Reduced motion and supported color scheme |
 | Persistence | Reload, revisit, result readback, another permitted session |
 | Authorization | Legitimate user succeeds; unrelated test user is rejected |
