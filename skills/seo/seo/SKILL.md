@@ -13,6 +13,12 @@ Identify public indexable routes, rendering strategy, canonical domain, existing
 
 Start with blockers such as accidental noindex, inaccessible content, wrong canonicals, and broken status codes. A missing sitemap alone does not make all pages unindexable.
 
+## Compare search competitors
+
+When asked to analyze competitors, identify comparable public sites and search intents, then inspect representative search results and landing pages. Compare page types, topics, titles, internal links, and apparent gaps against the user's actual audience and offering. Record the query, market, date, and sources so observations can be checked.
+
+Separate observed rankings and page content from third-party estimates of keywords, search volume, or traffic. Those estimates are incomplete and are not access to a competitor's analytics; distinguish branded from non-branded queries and do not present estimates as exact visits or conversions. If suitable data or tools are unavailable, state the limitation rather than inventing numbers. Prioritize original, useful opportunities instead of copying competitor content.
+
 ## Technical checks
 
 - Confirm indexable content is accessible to the intended crawlers. Compare initial HTML and rendered content; choose SSR, static rendering, or prerendering when the target search clients need it.

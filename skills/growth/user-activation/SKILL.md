@@ -19,6 +19,7 @@ Inspect the current signup and product flows. Define a concrete activation event
 - Use empty states to explain the next useful action.
 - Prefer doing the real task over a mandatory tooltip tour.
 - Use progress or a checklist only when it makes a genuinely multi-step task easier.
+- For a meaningful multi-step flow, consider showing the destination, current step, and remaining work. Make early steps useful and manageable; progress must reflect real work, not fabricated completion or misleading reward claims. Preserve progress and provide an accessible text equivalent to visual indicators.
 - Keep sample data clearly labeled and removable.
 - Make help and cancellation easy to find.
 
@@ -33,3 +34,4 @@ Check applicable current consumer requirements before making legal claims; the s
 Use a fresh test account through signup, activation, recovery, and cancellation where applicable. Check phone widths, keyboard use, errors, and persisted progress.
 
 Measure activation only when a tracking purpose and appropriate privacy controls exist. Explain which change reduced friction and what evidence remains to be collected.
+Treat progress indicators and reward framing as hypotheses, not guaranteed improvements. When appropriate, compare completion and drop-off alongside the quality of the activated outcome; avoid collecting unnecessary personal data.

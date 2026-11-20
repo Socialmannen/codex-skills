@@ -24,6 +24,8 @@ For large work, keep a short plan in the project's established location. Avoid c
 
 Skip layers the slice does not touch. For important logic use the existing test stack; the optional tdd workflow can help when test-first development is appropriate.
 
+For browser UI, consider native HTML and platform APIs when they fit the interaction and the project's supported browsers. Check current compatibility for the specific feature and choose progressive enhancement or a justified fallback where needed. Native primitives do not automatically provide complete accessibility: verify semantics, keyboard behavior, focus, and assistive technology expectations for the actual component. Follow established project components when they already meet the need.
+
 ## Finish
 
 Run the checks required by the repository and inspect the complete diff, including uncommitted and untracked files. Fix issues within scope and report the resulting behavior, validation, and unresolved blockers.

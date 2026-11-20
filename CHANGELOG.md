@@ -1,5 +1,11 @@
 # Changelog
 
+## Ej publicerat
+
+- Utökat SEO med källkritisk konkurrentanalys och tydlig skillnad mellan observationer och trafikuppskattningar.
+- Kompletterat onboarding med rättvisande, tillgänglig framstegsvisning och mätbara hypoteser.
+- Förtydligat hur moderna webbfunktioner väljs utifrån webbläsarstöd, tillgänglighet och projektets komponenter.
+
 ## 1.0.0 - 2026-11-14
 
 - Skapat en separat Codex-version av Socialmannen/skills från revision e09293227511c642ac5e00c2f4b775f1d01bd911.
